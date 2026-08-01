@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Smrithi%20Reddy%20Madadi&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=BTech%20CSE%20Student%20@%20IIIT%20Vadodara%20|%20Aspiring%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/smrithireddy17">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=BTech+Computer+Science+Student;Aspiring+Data+Analyst;C+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=BTech+Computer+Science+Student;Aspiring+Data+Analyst;C+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+SQL+%7C+PowerBI+%7C+Tableau" alt="Typing SVG" />
 </a>
 
 <br/>
